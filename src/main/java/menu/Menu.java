@@ -9,7 +9,6 @@ import java.util.Scanner;
 
 public class Menu {
     public void initialize() {
-//        System.out.print("\033[H\033[2J"); // clear console
         System.out.println("================================");
         System.out.println("1 - Read new messages");
         System.out.println("2 - Write a message");
