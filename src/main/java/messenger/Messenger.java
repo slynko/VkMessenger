@@ -1,4 +1,4 @@
-package decorator;
+package messenger;
 
 import com.vk.api.sdk.exceptions.ApiException;
 import com.vk.api.sdk.exceptions.ClientException;

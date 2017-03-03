@@ -1,7 +1,7 @@
 package authentication;
 
-import decorator.Messenger;
-import decorator.VkMessenger;
+import messenger.Messenger;
+import messenger.VkMessenger;
 
 import java.io.Console;
 

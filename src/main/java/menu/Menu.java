@@ -2,7 +2,7 @@ package menu;
 
 import com.vk.api.sdk.exceptions.ApiException;
 import com.vk.api.sdk.exceptions.ClientException;
-import decorator.Messenger;
+import messenger.Messenger;
 
 import java.io.IOException;
 import java.util.Scanner;

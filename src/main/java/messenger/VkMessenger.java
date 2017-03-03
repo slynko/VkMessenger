@@ -1,4 +1,4 @@
-package decorator;
+package messenger;
 
 import com.google.gson.Gson;
 import com.google.gson.JsonObject;
